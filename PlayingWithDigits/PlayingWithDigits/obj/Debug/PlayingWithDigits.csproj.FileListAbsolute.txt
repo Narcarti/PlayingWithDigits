@@ -1,0 +1,7 @@
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\PlayingWithDigits\PlayingWithDigits\bin\Debug\PlayingWithDigits.exe.config
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\PlayingWithDigits\PlayingWithDigits\bin\Debug\PlayingWithDigits.exe
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\PlayingWithDigits\PlayingWithDigits\bin\Debug\PlayingWithDigits.pdb
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\PlayingWithDigits\PlayingWithDigits\obj\Debug\PlayingWithDigits.csprojAssemblyReference.cache
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\PlayingWithDigits\PlayingWithDigits\obj\Debug\PlayingWithDigits.csproj.CoreCompileInputs.cache
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\PlayingWithDigits\PlayingWithDigits\obj\Debug\PlayingWithDigits.exe
+C:\Users\Onshore.DESKTOP-F079G9A\source\repos\PlayingWithDigits\PlayingWithDigits\obj\Debug\PlayingWithDigits.pdb
